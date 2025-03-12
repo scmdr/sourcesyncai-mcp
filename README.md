@@ -4,6 +4,10 @@
 
 A Model Context Protocol (MCP) server implementation for the [SourceSync.ai](https://sourcesync.ai) API. This server allows AI models to interact with SourceSync.ai's knowledge management platform through a standardized interface.
 
+<a href="https://glama.ai/mcp/servers/3llggpfti7">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/3llggpfti7/badge" alt="SourceSync.ai Server MCP server" />
+</a>
+
 ## Features
 
 - Manage namespaces for organizing knowledge
